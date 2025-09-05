@@ -1,12 +1,5 @@
-I can definitely create a professional README file for your project. Here is a version you can use, formatted to be clear and easy to read.
-
-Project Title
-xv6: Operating System Modifications (Nov 2024)
-
 Overview
 This repository contains modifications made to the xv6 operating system as part of a course project at IIT Guwahati. The project, guided by Dr. Phrangboklang Lyngton Thangkhiew, focused on enhancing xv6's core functionality in scheduling and memory management.
-
-For more details on the course, refer to the provided guide: bit.ly/plt-os.
 
 Key Features
 This project includes the following key implementations:
